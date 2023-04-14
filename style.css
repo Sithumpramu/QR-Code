@@ -47,12 +47,5 @@ p{
    
 }
 
-@media screen and (max-width: 375)
-{
-    .container .pic h3 p
-    {
-        width: 100%;
-    }
 
-}
 
